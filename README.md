@@ -5,6 +5,8 @@ To get started, just run
 mapFusionMAIN.m
 ```
 
+<figure><img src="Figures/overview.pdf"><figcaption>image caption</figcaption></figure>
+
 If you use this library for any academic work, please cite the original [thesis](https://scholar.uwindsor.ca/etd/8790/).
 
 ```bibtex
