@@ -1,8 +1,5 @@
 # Keypoint-based Map Fusion Algorithm for Multiple Robot SLAM
 
-![overview](https://user-images.githubusercontent.com/21349875/190433899-a917d7a4-23b1-4247-8291-ae000e9e7871.png)
-
-
 To get started, just run
 ```
 mapFusionMAIN.m
