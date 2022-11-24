@@ -1,11 +1,13 @@
 # Keypoint-based occupancy grid map fusion for multiple-robot SLAM
 
+![Overview](Resources/overview.png)
+
 To get started, just run
 ```
 mapFusionMAIN.m
 ```
 
-If you use this library for any academic work, please cite the original [thesis](https://scholar.uwindsor.ca/etd/8790/).
+For more details or if you use the code for any academic work, please cite the original [thesis](https://scholar.uwindsor.ca/etd/8790/).
 
 ```bibtex
 @phdthesis{sunil2022heterogeneous,
