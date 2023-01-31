@@ -1,4 +1,4 @@
-# Keypoint-based occupancy grid map fusion for multiple-robot SLAM
+# Bayesian Occupancy Grid Map Fusion for Multiple-robot SLAM
 
 ![Overview](Resources/overview.png)
 
