@@ -1,4 +1,4 @@
-# Bayesian Occupancy Grid Map Fusion for Multiple-robot SLAM
+# Occupancy Grid Map Fusion for Multiple-robot SLAM
 
 ![Overview](Resources/overview.png)
 
