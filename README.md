@@ -1,5 +1,5 @@
 # Feature-Based Occupancy Map-Merging for Collaborative SLAM
-Given two overlapping 2-dimensional occupancy grid maps, the occupancy-grid-map-fusion aims to find an association between the independent maps and combine them. One of the heuristic solutions to this map fusion problem is to use computer vision techniques. The figure below, gives an overview of the computer vision approach. 
+Given two overlapping 2-dimensional occupancy grid maps, the occupancy-grid-map-fusion aims to find an association between the independent maps and combine them. One of the heuristic solutions to this map fusion problem is to use computer vision techniques. The figure below, gives an overview.
  
 ![Overview](Resources/overview.png)
 
